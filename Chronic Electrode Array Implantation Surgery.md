@@ -1,34 +1,74 @@
-General Preparation
+Surgery Prep
 
-For this surgery, you will be squeezing a lot of equipment into a small place. I recommend having all of your drugs/tools/back ups laid out and available to you before surgery. Further, I would recommend shifting the microscope upward so the lens is facing away from you…it is an uncomfortable way to sit, but allows the electrical manipulator to fit during surgery. It will be tight, but take your time and get the microscope at an angle so that it will NOT bump your electrode during the procedure. 
+For this surgery, you will be squeezing a lot of equipment into a small place. I recommend having all of your drugs/tools/back ups laid out and available to you before surgery. Further, I would recommend shifting the microscope lens upward so the lens is facing further away from you/more towards the wall…it is an uncomfortable way to sit, but allows the manipulator to fit during surgery. It will be tight, but take your time and get the microscope at an angle so that it will NOT bump your manipulator at any point during the procedure.
 
-Anesthesia 
+Sterilize materials that cannot go in the autoclave (any plastic, thermistors, etc.) in 3% hydrogen peroxide for at least 15 minutes before use. 
 
-Animals are anesthetized by isoflurane (1-3%), delivered by nosecone. Mice are positioned in a stereotax, with a feedback-regulated heating pad to maintain the body temperature at 37° C. The eyes are covered with petroleum ophthalmic sterile ointment to prevent drying. The paw pinch reflex is periodically tested, and the level of Isoflurane is adjusted to maintain a sufficiently deep level of anesthesia. Administer pain relief drugs at this point. 
+Anesthesia
 
-Following deep anesthesia (confirmed by absence of paw pinch reflex), the surgical area (extending from above the nasal bones to the bone overlying the cerebellum) is shaved and the area scrubbed gently with hibiclens and betadine, using a sterile cotton-tipped applicator. Prior to incision, lidocaine (30 uL 10% solution) is injected beneath the scalp at the incision site. An incision is made into the skin along the midline using a sterile scalpel blade, and the skin overlying the nose and the dorsomedial skull is removed. The incision extends from the nasal bone to the bone overlying the cerebellum. Connective tissue and periosteum on the skull are cleaned away by suction and scalpel. 
+1.	Anesthetize by isoflurane (1-3%), delivered by nosecone. 
+2.	Position mouse on stereotax with feedback-regulated heating pad at 37° C. 
+3.	Cover eyes with ophthalmic sterile ointment to prevent drying. 
+4.	Use paw or tail pinch periodically to maintain deep level of anesthesia. 
+5.	Administer 0.03mg/kg of buprenorphine IP and 4mg/kg of meloxicam SQ.
 
-Intranasal thermistor implantation 
+Standard incision 
 
-During this part of the procedure, it is essential to keep the olfactory bulb and area directly posterior completely clear for the electrode implantation. 
- 
-An intranasal thermistor is implanted (procedure adopted from McAfee et al. 2016). The thermistor will be sterilized in 3% hydrogen peroxide for 15 minutes before implantation (the device cannot be autoclaved). Using a dental drill with a sterile FG ¼ drill bit, a small hole is drilled in the anterior portion of the nasal bone, centered 0.5mm lateral from the midline suture. The edges of this hole can be lightly cauterized if desired (less than ½ second) to reduce future swelling using a standard surgical cauterizer. The probe is carefully inserted into this cavity with sterile forceps; partial insertion just under the nasal bone, without breaking through the epithelium, is sufficient for a quality signal and reduces the risk of damage to the nasal epithelium.
+1.	Following deep anesthesia, shave the surgical area (extending from above the nasal bones to the bone overlying the cerebellum) and gently scrub with hibiclens and betadine soap using a sterile cotton-tipped applicator. 
+2.	Prior to incision, inject lidocaine (30 uL 10% solution) beneath the scalp at the incision site (I like to do 3 small injections at tip of nose, between eyes, and top of head). 
+3.	Make an incision along the midline using a sterile scalpel blade or scissors.
+4.	Remove the skin overlying the nose and the dorsomedial skull. Exposed site should extend from nasal bone to bone overlying the cerebellum and reach from eye to eye. 
+5.	Carefully and diligently remove the connective tissue and periosteum on the skull using suction/scalpel/forceps/your tool of choice. This site should be completely clean and dry before proceeding. 
 
-Sterile bone wax can be applied to the probe to protect the temperature sensitive element and seal the opening (I don't always do this). The hole is then sealed with the bead fixed in place with a viscous super glue which prevents seepage into thermistor hole and epithelium. Set excess wire and connector to the side, preferably bent away from the surgical site towards the nose. 
+Thermistor implantation 
 
-Chronic electrode implantation  
+During this part of the procedure, it is essential to keep the olfactory bulb and area directly posterior completely clear in preparation for the electrode implantation. The following procedure is adopted from McAfee et al. 2016. 
 
-In-house prepared tetrodes or silicon probes are used for recordings. Recording probes are fixed to a microdrive during surgical prep and this microdrive is held in place on a micromanipulator arm using a small screw. An electrical manipulator is roughly centered over the site of interest (olfactory bulb left or right) and tightened in place. Power on the manipulator before continuing surgery…as it resets, it may move out of place. I like to center the manipulator using a pencil or other straight object. Do not put the micromanipulator arm with the drive in it in the manipulator yet! 
+1.	Using a dental drill with a sterile FG ¼ drill bit, begin to drill a small hole in the anterior portion of the nasal bone, centered ~0.5mm lateral from the midline suture (see lab Dropbox for photos). 
+2.	Move slowly through the layers of bone with the drill. With care, you should be able to drill a hole in the bone without damage to the underlying epithelium. In the best cases, you can see the underlying epithelium pulse with breath. 
+3.	The edges of this hole can be lightly cauterized if desired (less than ½ second) to reduce future swelling using a standard surgical cauterizer (I don’t always do this). 
+4.	Insert glass bead of thermistor carefully into cavity; partial insertion just under the nasal bone without overtly distending the epithelium. Be careful not to damage the epithelium, but if the nasal epithelium breaks, you can still implant and get a signal. 
+5.	You can melt sterile bone wax into the cavity to protect the temperature sensitive element of the thermistor. I have not done this in a while though.
+6.	Seal the hole and bead in place with a drop of viscous super glue (viscous so that it does not seep onto the epithelium). I use zip kicker to fix this in place quickly. 
+7.	Build up a little glue for stability and set excess wire and connector bent to the side. Preferably, bend it away from your surgical site so it is out of the way. 
 
-Using stereotaxic measurements, a small hole (0.2-0.3 mm) is drilled above the region in which recordings will be performed (olfactory bulb, cortex, hippocampus, and superior colliculus).  For the seven shank silicon probes, you will need to drill three consecutive holes to create a trench in order for the entire probe to fit into the olfactory bulb. I prefer to do this from the medial anterior to lateral posterior to best avoid the sinus of doom. Once the craniotomy is complete, the dura is removed with a sterile, bent needle (gauge 32) and the exposed brain is hydrated with sterile saline buffer throughout subsequent procedures. If any part of this procedure bleeds, patiently wait until the bleeding has stopped, clearing the blood with gel foam. Finally, build up a thin wall of gel glue on the bone around the craniotomy. This will protect your tissue from any glue seepage and will allow you to more thoroughly irrigate it throughout your surgery. 
+Chronic Recordings: craniotomy 
 
-After the craniotomy has been made, place the manipulator arm with the electrodes into the electrical manipulator and orient so electrodes will fit along craniotomy. The recording electrodes are gently lowered towards the brain region of interest with an electrical manipulator, adjusting as needed. Once the electrodes are at the surface of the brain, if doing an olfactory bulb implant, lower a small amount further so electrodes are inside of neural tissue. If the shanks bend at all, pull back and ensure skull/dura are completely clear. Remember to continue irrigating the exposed brain with sterile saline buffer throughout this procedure. Once properly in place, fix electrode microdrive in place using your chosen adhesive. Ensure that you do not get glue near your craniotomy or on the moveable drive plate. I like to use gel super glue with zip kicker to prevent seepage and get it fixed in place quickly. The exposed brain area is then covered using Kwikcast. Once the drive is solidly fixed in place, carefully unscrew the small screw connected drive to manipulator arm. BEFORE REMOVING THE ARM: remove amplifier chip and connectors from arm and tape gently to an ear bar out of your way. Once the drive is free, use the manipulator to raise the arm off the drive and then remove so you have more space to work. 
+1.	See surgical prep protocol for how to mount probes to microdrive and manipulator arm. 
+2.	Center the electrical manipulator over your region of interest (olfactory bulb) by loosening the screw that fixes it to the stereotax and sliding it to the right location, then tightening the screw. I like to put a straight object like a pencil in the manipulator to help me align it. 
+3.	Power on the manipulator before continuing surgery…it resets to a home position when powered on and may move out of place from where you would like it. 
 
-Adhere a headbar between the ears and adhere the amplifier chip/electrode connectors against the headbar, leaning backward towards the body to reduce weight on the anterior part of the skull. Be very careful to avoid your electrodes during this procedure. Create a fence around electrode site and microdrive. This can be built using copper mesh and dental cement. I use a piece of lab tape rolled backwards on itself into a tube. I sterilize it in hydrogen peroxide prior to surgery and then I use sterile scissors to shape it to the mouse’s head around the implant to best protect both the electrodes and drive. Glue the entire base of the fence to the skull and build up glue on back of drive to ensure it is fixed in place. Inside the fence is then filled to the surface with a mixture of sterile bone wax and mineral oil melted in using a cauterizer and cotton swab stick. 
+Do not put the arm with the electrodes on it in the manipulator yet! Remember for your craniotomy that the bone over the olfactory bulb is very thin and you don’t have to go very far to access the brain. 
 
-Upon completion, adhere thermistor pins to a convenient part of the implant where they will not press on the drive or fence and embed thermistor wire in adhesive. Dental cement or cyanoacrylate is applied to all exposed skull surface, skin margins, and then built up around implant for increased strength. Do this in thin layers to optimize strength of implant. 
+4.	Drill a small shallow hole (0.2-0.3mm) in the skull above your region of interest. For 64-128 channel olfactory bulb recordings, I drill a series of small holes from the medial anterior to lateral posterior olfactory bulb (creating a trench). This best avoids the sinus of doom and accesses a large portion of the olfactory bulb for recording. 
+5.	Once your craniotomy is complete, remove the dura with a sterile needle (gauge 32) and hydrate the exposed brain with sterile LRS throughout until craniotomy is sealed. 
+6.	If any part of this procedure bleeds, patiently wait until the bleeding has stopped. You can alternatively clear blood with gel foam or cold LRS, but patience tends to be your friend here. Best if it doesn’t bleed though. 
+7.	Build up a thin wall of gel glue on the bone around the craniotomy. This will protect your tissue from any glue seeping and will allow you to thoroughly irrigate the site throughout your surgery. 
 
-Post-operative care 
+Chronic Recordings: Microdrive-mounted electrode implantation
 
-Mice are allowed to recover in the surgical suite or a recovery unit.  The recovery cage is kept on a heating pad until the animal is fully awake. In some cases, animals are placed in a recovery unit overnight for additional support. For three days, the animals will be scrutinized for any signs of pain, such as reluctance to move about, decreased appetite and/or water consumption, weight loss, hunched posture, increased respiration, self-mutilation, or irritation around the surgical site. These observations (including animals' weights) will be recorded in individual animal health charts.
+8.	After the craniotomy is completed and irrigated, place the manipulator arm with the electrodes into the manipulator and orient electrodes at the angle that will fit the entire probe into the trench you have made. 
+9.	Gently lower the probe towards the brain region of interest, adjusting position as needed. Once the electrodes are at the surface of the brain, lower about 50-100 microns further so electrodes are inside neural tissue. 
+10.	If the shanks bend at all here, it means you have not fully remove the dura and need to raise the probe and continue clearing the dura. It is also possible you are hitting a thin remnant of bone, but you should be able to see this clearly under the microscope. 
+11.	Continue irrigating exposed brain with sterile LRS throughout the procedure. 
+12.	Once in place, fix electrode Microdrive to skull using your chosen adhesive. Do not get glue near the craniotomy or anywhere on the moveable plate on the front of the drive. I like to use gel super glue with zip kicker to prevent seepage and get things fixed in place quickly. 
+13.	Cover the exposed brain with a drop of Kwikcast. 
+14.	Build up glue around base of Microdrive to ensure it is solidly fixed in place. 
+15.	Once the drive is solidly fixed in place, carefully unscrew the small screw holding the Microdrive to the manipulator arm. 
+16.	BEFORE REMOVING THE ARM: ensure the amplifier chip is removed from the arm and taped gently to stereotax out of the way. Also ensure Microdrive is fully free and will not be pulled on if you raise the arm. 
+17.	Raise arm using manipulator and then fully remove to give yourself more space to work. 
 
+Chronic Recordings: building the headstage
+
+18.	Adhere a metal headbar between the ears and adhere the amplifier chip against the headbar, leaning backwards towards the body to reduce weight on the anterior part of the skull. Take care during this step to not damage the very delicate ribbon cable in any way including pulling on it. Additionally, be very careful to avoid bumping your electrode/Microdrive set up during this step. 
+19.	Create a fence around the electrode site and Microdrive. This can be built using copper mesh and dental cement. I generally use a piece of lab tape (sterilized in hydrogen peroxide) rolled backwards on itself into a tube. I use sterile scissors to shape the bottom of the tube to the mouse’s head to best protect and seal in both the electrodes and Microdrive. Glue the base of the tube to skull while it is around the drive, sealing in the electrodes and Microdrive. 
+20.	Fill the fence to the surface wit a mixture of sterile bone wax and mineral oil melted using a cauterizer. I use a cotton swab stick to hold pieces of wax over the tube and melt it in. 
+21.	Drill a craniotomy behind the headbar above cerebellum and fix the ground and reference wires that extend out of the amplifier chip solidly into cerebellum using your choice of adhesive. 
+22.	Adhere thermistor pins and wire to a convenient part of the implant where they are out of the way, but you will not press on a delicate part of the implant, like the fence, when you plug them in. Embed the thermistor wire in adhesive. 
+23.	As a final step, apply dental cement or cyanoacrylate to all exposed skull surface, skin margins, and then around the implant for increased strength and durability. Take your time doing this step! Use thin layers and leave plenty of drying time to optimize the strength of the implant. 
+
+Post-operative care
+
+1.	Allow mice to recover in the surgical suite or a heated recovery unit until the animal is fully awake and moving normally. 
+2.	For three days, scrutinize your animal for any signs of pain, such as reluctance to move about, decreased appetite and/or water consumption, weight loss, hunched posture, increased respiration, self-mutilation, or irritation around the surgical site. 
+3.	When in doubt, consult with on-call veterinarian. 
