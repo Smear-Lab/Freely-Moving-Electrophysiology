@@ -40,12 +40,19 @@ Mounting probe
 Thermistor materials  
 
 •	Thermistor
+
 •	Male side of thermistor pins 
+
 •	Sharp forceps 
+
 •	Soldering iron & supplies
-•	Viscous super glue 
+
+•	Viscous super glue
+
 •	Alligator clamps 
-•	Flat razor 
+
+•	Flat razor
+
 •	Multimeter
 
 Prep making thermistor
