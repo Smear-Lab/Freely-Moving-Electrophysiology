@@ -1,14 +1,23 @@
 Probe mounting materials 
 
-•	Diagnostic biochips probe with attached amplifier chip 
+•	Diagnostic biochips probe with attached amplifier chip
+
 •	Microdrive 
+
 •	Flathead screw driver (small enough for Microdrive screw)
-•	Viscous gel glue 
+
+•	Viscous gel glue
+
 •	2 pairs of sharp forceps
-•	Microscope 
+
+•	Microscope
+
 •	I like to have a straight needle of some sort 
-•	Lab tape 
-•	Manipulator arm & carrying case 
+
+•	Lab tape
+
+•	Manipulator arm & carrying case
+
 •	Clamp
 
 Prep Microdrive
